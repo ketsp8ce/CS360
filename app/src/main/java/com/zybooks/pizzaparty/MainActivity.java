@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         // Get the text that was typed into the EditText
         String numAttendStr = mNumAttendEditText.getText().toString();
 
-        // Convert the text into an integer
+        // Convert the text into an integer TEST
         int numAttend = Integer.parseInt(numAttendStr);
 
         // Determine how many slices on average each person will eat
